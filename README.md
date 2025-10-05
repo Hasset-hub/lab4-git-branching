@@ -15,8 +15,8 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `hero-path`: _[The player becomes a hero, wielding a glowing sword and saving the villagers.]_
+- `villain-path`: _[The player succumbs to dark power and becomes the ruler of a fearful kingdom.]_
 
 ## Final Checklist
 
